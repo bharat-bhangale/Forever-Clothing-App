@@ -1,4 +1,4 @@
-# 🛒 MERN Stack E-Commerce Website
+# 🛒FOREVER CLOTHING A MERN Stack E-Commerce Website
 
 A full-featured E-Commerce platform built using the MERN stack (MongoDB, Express, React, Node.js). It includes user & admin authentication, product management, shopping cart, secure checkout, payment integration, and an admin dashboard for complete store control.
 

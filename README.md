@@ -52,7 +52,7 @@ A full-featured E-Commerce platform built using the MERN stack (MongoDB, Express
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/mern-ecommerce.git
+   git clone https://github.com/bharat-bhangale/Forever-Clothing-App.git
    cd mern-ecommerce
    ```
 
